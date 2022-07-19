@@ -6,12 +6,12 @@
   <br>
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=0dc229">
-  <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=0dc229">
-  <img src="https://img.shields.io/badge/-CSharp-white?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0dc229">
-  <img src="https://img.shields.io/badge/-.NET-white?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0dc229">
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0dc229">
-  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=0dc229">
+  <img src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-CSharp-white?style=for-the-badge&logo=csharp&logoColor=white&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-.NET-white?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=4EA22F">
 </div>
 </p>
 <br>
