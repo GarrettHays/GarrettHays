@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Garrett Hays</b>
+</h1>
 
-<!--
-**GarrettHays/GarrettHays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Hi! I'm Garrett, a student at Epicodus learning HTML, CSS, C#, JavaScript and React. I am currently living in Portland, Oregon.<p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=0dc229">
+  <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=0dc229">
+  <img src="https://img.shields.io/badge/-CSharp-white?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0dc229">
+  <img src="https://img.shields.io/badge/-.NET-white?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0dc229">
+  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0dc229">
+  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=0dc229">
+</div>
+</p>
 
-Here are some ideas to get you started:
+## My Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="left">
+  <a href="https://github.com/GarrettHays">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=garretthays&show_icons=true&theme=blood&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=garretthays&theme=blood&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Garrett's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=ededed&color=000000&line=58c242&point=51514d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
