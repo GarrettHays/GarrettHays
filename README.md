@@ -25,5 +25,5 @@
 </p>
 <br>
 
-[![Garrett's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=ededed&color=000000&line=58c242&point=51514d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Garrett's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=0d1117&color=d8d4d4&line=c9c9c9&point=4ea22f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
