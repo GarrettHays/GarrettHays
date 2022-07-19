@@ -2,7 +2,7 @@
   <b>Garrett Hays</b>
 </h1>
 <br>
-<p align="center">Student at Epicodus in Portland, Oregon. I am currently learning and becoming proficient in HTML, CSS, C#, JavaScript and React.<p>
+<p align="center"><b>Student at Epicodus in Portland, Oregon. I am currently learning and becoming proficient in HTML, CSS, C#, JavaScript and React.</b><p>
   <br>
 <p>
 <div align="center">
