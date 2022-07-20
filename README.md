@@ -2,21 +2,21 @@
   <b>Garrett Hays</b>
 </h1>
 <br>
-<p align="center"><b>Student at Epicodus in Portland, Oregon. I am currently learning and becoming proficient in HTML, CSS, C#, JavaScript and React.</b><p>
+<p align="center"><b>Student at Epicodus in Portland, Oregon. Currently learning and becoming proficient in HTML, CSS, C#, JavaScript and React.</b><p>
   <br>
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=4EA22F">
-  <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=4EA22F">
-  <img src="https://img.shields.io/badge/-CSharp-white?style=for-the-badge&logo=csharp&logoColor=white&labelColor=4EA22F">
-  <img src="https://img.shields.io/badge/-.NET-white?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=4EA22F">
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4EA22F">
-  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-HTML-F0F6FC?style=for-the-badge&logo=html5&logoColor=F0F6FC&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-CSS-F0F6FC?style=for-the-badge&logo=css3&logoColor=F0F6FC&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-CSharp-F0F6FC?style=for-the-badge&logo=csharp&logoColor=F0F6FC&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-.NET-F0F6FC?style=for-the-badge&logo=dotnet&logoColor=F0F6FC&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-JavaScript-F0F6FC?style=for-the-badge&logo=javascript&logoColor=F0F6FC&labelColor=4EA22F">
+  <img src="https://img.shields.io/badge/-React-F0F6FC?style=for-the-badge&logo=react&logoColor=F0F6FC&labelColor=4EA22F">
 </div>
 </p>
 <br>
 
 ## My Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garretthays&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=0D1117&border=4EA22F&stroke=4EA22F&ring=4EA22F&fire=DD50AE&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=4EA22F)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garretthays&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=0D1117&border=4EA22F&stroke=4EA22F&ring=4EA22F&fire=DD50AE&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=4EA22F)
 
-[![Garrett's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=0d1117&color=ffffff&line=ffffff&point=4ea22f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=0d1117&color=f0f6fc&line=f0f6fc&point=4ea22f&area=true&hide_border=true)
