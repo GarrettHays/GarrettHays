@@ -2,7 +2,7 @@
   <b>Garrett Hays</b>
 </h1>
 <br>
-<p align="center"><b>Full Stack Developer in Portland, Oregon. Perpetually learning and becoming proficient in HTML, CSS, C#, JavaScript and React.</b><p>
+<p align="center"><b>Full Stack Developer in Portland, Oregon. Perpetually learning and becoming proficient in HTML, CSS, C#, JavaScript, TypeScript, Angular, React & more.</b><p>
   <br>
 <p>
 <div align="center">
