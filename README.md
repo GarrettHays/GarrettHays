@@ -5,7 +5,7 @@
 <p align="center"><b>Full Stack Developer in Portland, Oregon.<br/> Perpetually learning and becoming proficient in HTML, CSS, C#, JavaScript, TypeScript, Angular, React & more.</b><p>
   <br>
 <p>
-<div align="center">
+<div align="center"> 
   <img src="https://img.shields.io/badge/-HTML-F0F6FC?style=for-the-badge&logo=html5&logoColor=F0F6FC&labelColor=4EA22F">
   <img src="https://img.shields.io/badge/-CSS-F0F6FC?style=for-the-badge&logo=css3&logoColor=F0F6FC&labelColor=4EA22F">
   <img src="https://img.shields.io/badge/Bootstrap-F0F6FC?style=for-the-badge&logo=bootstrap&logoColor=F0F6FC&labelColor=4EA22F">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Datadog-F0F6FC?style=for-the-badge&logo=datadog&logoColor=F0F6FC&labelColor=4EA22F">
   <img src="https://img.shields.io/badge/-Netlify-F0F6FC?style=for-the-badge&logo=netlify&logoColor=F0F6FC&labelColor=4EA22F">
   
-</div>
+</div> 
 </p>
 <br>
 
