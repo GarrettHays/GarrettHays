@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Garrett Hays</b>
+  <b>Garrett Hays</b> 
 </h1>
 <br>
 <p align="center"><b>Full Stack Developer in Portland, Oregon.<br/> Perpetually learning and becoming proficient in HTML, CSS, C#, JavaScript, TypeScript, Angular, React & more.</b><p>
@@ -39,4 +39,4 @@
   <img align="right" img width= 60% src="https://github-readme-streak-stats.herokuapp.com?user=garretthays&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=0D1117&border=4EA22F&stroke=4EA22F&ring=4EA22F&fire=DD50AE&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=4EA22F" alt="Garrett's GitHub Stats" />
 </a>
 
-![Garrett's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=0d1117&color=f0f6fc&line=f0f6fc&point=4ea22f&area=true&hide_border=true)
+![Garrett's github activity graph](https://activity-graph.herokuapp.com/graph?username=garretthays&bg_color=0d1117&color=f0f6fc&line=f0f6fc&point=4ea22f&area=true&hide_border=true) 
