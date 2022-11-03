@@ -30,7 +30,7 @@
 </p>
 <br>
 
-## My Statistics
+## My Statistics  
 <br>
 <a href="https://github.com/GarrettHays/GarrettHays">
   <img align="left" img width= 35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettHays&&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
